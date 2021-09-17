@@ -1,12 +1,9 @@
 # vrp_lscolor
 
-######################################################################################################
-#Resumo:                                                                                                                                
-Script simples para adicionar a mecânica em sua cidade, porém apenas com a tunagem VISUAL, ou seja, 
-   cores, rodas e estética do carro.                                                                 
-Ótima opção para quando há a presença de uma facção para a tunagem de motor e performance do veículo                                 
-######################################################################################################
 
+Resumo:                                                                                                                                
+Script simples para adicionar a mecânica em sua cidade, porém apenas com a tunagem VISUAL, ou seja, cores, rodas e estética do carro.                                               
+Ótima opção para quando há a presença de uma facção para a tunagem de motor e performance do veículo                                 
 
 Características:
 1) Valor das tunagens ajustado de acordo com o valor do veículo à ser modificado.
